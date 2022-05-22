@@ -1,0 +1,1 @@
+C:\Users\t.kikuchi\AppData\Local\Programs\Python\Python37\Lib\site-packages\cv2\data
